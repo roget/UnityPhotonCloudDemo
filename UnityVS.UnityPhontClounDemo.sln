@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.UnityPhontClounDemo.CSharp.Plugins", "UnityVS.UnityPhontClounDemo.CSharp.Plugins.csproj", "{2E2FDB00-BC4C-BCF7-9DA6-AFF91F6CABA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.UnityPhontClounDemo.CSharp", "UnityVS.UnityPhontClounDemo.CSharp.csproj", "{8D0304F8-9C9C-7F21-28B4-283FE44675CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.UnityPhontClounDemo.CSharp.Editor", "UnityVS.UnityPhontClounDemo.CSharp.Editor.csproj", "{6469457A-41DA-7FF7-19B3-D558A58FC5BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E2FDB00-BC4C-BCF7-9DA6-AFF91F6CABA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2FDB00-BC4C-BCF7-9DA6-AFF91F6CABA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2FDB00-BC4C-BCF7-9DA6-AFF91F6CABA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2FDB00-BC4C-BCF7-9DA6-AFF91F6CABA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0304F8-9C9C-7F21-28B4-283FE44675CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0304F8-9C9C-7F21-28B4-283FE44675CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0304F8-9C9C-7F21-28B4-283FE44675CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0304F8-9C9C-7F21-28B4-283FE44675CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6469457A-41DA-7FF7-19B3-D558A58FC5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6469457A-41DA-7FF7-19B3-D558A58FC5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6469457A-41DA-7FF7-19B3-D558A58FC5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6469457A-41DA-7FF7-19B3-D558A58FC5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
